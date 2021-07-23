@@ -1,0 +1,238 @@
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\App.g.cs
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.baml
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\App.baml
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+C:\Users\Bucefalo\Desktop\OrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csprojAssemblyReference.cache
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csprojAssemblyReference.cache
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\App.g.cs
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\App.baml
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.baml
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+C:\Users\Bucefalo\Desktop\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csprojAssemblyReference.cache
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\App.g.cs
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\App.baml
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.baml
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+E:\DAM\M8\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\App.g.cs
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\App.baml
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\MainWindow.baml
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF\OrdenacionWPF\obj\Debug\OrdenacionWPF.csprojAssemblyReference.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csprojAssemblyReference.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\App.g.cs
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\App.baml
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\MainWindow.baml
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+E:\DAM\M8 PROGRAMACIÓ MULTIMÈDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csprojAssemblyReference.cache
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\App.g.cs
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\App.baml
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\MainWindow.baml
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+E:\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe.config
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.exe
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\OrdenacionWPF.pdb
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.AssemblyReference.cache
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\Resource\MainWindowsDictionary.baml
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\MainWindow.g.cs
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\App.g.cs
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.cache
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF_MarkupCompile.lref
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\App.baml
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\MainWindow.baml
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.g.resources
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.Properties.Resources.resources
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.GenerateResource.cache
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CoreCompileInputs.cache
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.csproj.CopyComplete
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.exe
+E:\2n DAM\DAM\M8 PROGRAMACIO MULTIMEDIA\WPF\DEURES\MetodosOrdenacionWPF2nPart_Vazgen\OrdenacionWPF\obj\Debug\OrdenacionWPF.pdb
