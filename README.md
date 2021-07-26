@@ -7,3 +7,4 @@ Animació gràfica
 
 
 Menú lateral
+![barra_menu](https://user-images.githubusercontent.com/33204630/127058914-4a73f4c4-9768-4221-b0f3-d9e7560e41cb.PNG)
