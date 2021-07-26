@@ -4,3 +4,6 @@
 
 Animació gràfica
 ![Ordneacion_animacion](https://user-images.githubusercontent.com/33204630/127058771-7f994591-dd3d-40cf-ac67-9592c6e9d67d.PNG)
+
+
+Menú lateral
